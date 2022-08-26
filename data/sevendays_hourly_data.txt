@@ -1,2 +1,2 @@
 Time,Battery,Solar_panel,Indoor_temperature,Pressure,Outdoor_temperature,Outdoor_humidity,Solar_radiation,Wind_direction,Wind_speed,Rainfall_1,Rainfall_2,Counter
-2022-08-26,0.21,0.01,-127.0,794.37,128.87,119.0,183.1,122.21,0.0,0.0,0.0,262.95
+2022-08-26,0.45,0.0,-127.0,794.36,128.87,119.0,183.48,122.0,0.0,0.0,0.0,273.35
