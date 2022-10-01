@@ -1,2 +1,2 @@
 Time,Battery,Solar_panel,Indoor_temperature,Pressure,Outdoor_temperature,Outdoor_humidity,Solar_radiation,Wind_direction,Wind_speed,Rainfall_1,Rainfall_2,Counter
-2022-09-30 23:00:00,0.0,0.0,21.0,794.0,9.96,34.58,127.71,124.17,0.0,0.0,0.0,300793.67
+2022-09-30 23:00:00,0.0,0.0,21.0,794.0,11.38,39.55,124.22,122.71,0.0,0.0,0.0,335194.29
