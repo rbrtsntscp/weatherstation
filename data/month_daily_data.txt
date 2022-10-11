@@ -1,5 +1,4 @@
 Time,Battery,Solar_panel,Indoor_temperature,Pressure,Outdoor_temperature,Outdoor_humidity,Solar_radiation,Wind_direction,Wind_speed,Rainfall_1,Rainfall_2,Counter
-2022-09-11,,,,,,,,,,0.0,0.0,
 2022-09-12,,,,,,,,,,0.0,0.0,
 2022-09-13,,,,,,,,,,0.0,0.0,
 2022-09-14,,,,,,,,,,0.0,0.0,
@@ -29,3 +28,4 @@ Time,Battery,Solar_panel,Indoor_temperature,Pressure,Outdoor_temperature,Outdoor
 2022-10-08,0.0,0.0,21.44,923.07,19.47,56.56,202.3,91.89,0.0,0.0,0.0,1804682.87
 2022-10-09,0.0,0.0,21.49,927.56,19.57,60.43,180.39,94.39,0.0,0.0,0.0,1763429.35
 2022-10-10,0.0,0.0,20.35,928.77,18.53,63.88,80.89,98.57,0.0,0.0,0.0,1815496.37
+2022-10-11,0.0,0.0,20.49,927.95,18.37,67.73,78.11,103.0,0.0,0.0,0.0,1808670.0
